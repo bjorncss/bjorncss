@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bjorncss and I am a Webflow expert
+- 👋 Hi, I’m Bjorn and I am a Webflow expert
 - 💼 I work as a senior developer at [Altiverse](https://www.altiverse.co/)
 - 👀 I’m interested in learning all about web development
 - 🌱 I’m currently learning JavaScript
