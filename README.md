@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Bjorn and I am a Webflow expert
-- 💼 I work as a senior developer at [Altiverse](https://www.altiverse.co/)
 - 👀 I’m interested in learning all about web development
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on complex Webflow projects
-- 📫 Reach me at bjorn@altiverse.co
+- 📫 Reach me at [bjornflow.com](https://www.bjornflow.com/)
 
 <!---
 bjorncss/bjorncss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
